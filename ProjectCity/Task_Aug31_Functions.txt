@@ -1,0 +1,14 @@
+
+Write a function to take input age in years and convert them into months and print it
+
+Write a function to take input array of integers and return its sum
+
+Write a function to take input array of integers and return its product
+
+Write a function to take input name email gender age and print the details
+
+Write a function to take input int array and return the highest number
+
+Write a function to take input int array and return the least number
+
+Write a function to take input String and print the duplicate letter and its count
